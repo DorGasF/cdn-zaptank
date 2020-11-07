@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1c47c0c619221a8bdba538069380d222:80a15f6756d476369daa85423b8fde29:184408bcd4b5c732c8baf3d7775e629a$ -->
+<TextureAtlas imagePath="default_resource.png">
+    <SubTexture name="image_badge_0" x="2" y="489" width="1" height="1" frameX="0" frameY="0" frameWidth="194" frameHeight="259"/>
+    <SubTexture name="image_badge_1" x="98" y="437" width="68" height="70" frameX="-6" frameY="-3" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="image_badge_10" x="116" y="162" width="78" height="78"/>
+    <SubTexture name="image_badge_2" x="149" y="242" width="66" height="66" frameX="-7" frameY="-7" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="image_badge_3" x="168" y="437" width="66" height="68" frameX="-7" frameY="-5" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="image_badge_4" x="148" y="82" width="78" height="78"/>
+    <SubTexture name="image_badge_5" x="165" y="2" width="78" height="78"/>
+    <SubTexture name="image_badge_6" x="162" y="357" width="78" height="78"/>
+    <SubTexture name="image_badge_7" x="82" y="357" width="78" height="78"/>
+    <SubTexture name="image_badge_8" x="69" y="245" width="78" height="78"/>
+    <SubTexture name="image_badge_9" x="2" y="377" width="78" height="78"/>
+    <SubTexture name="image_deafult_player" x="2" y="245" width="65" height="130"/>
+    <SubTexture name="image_deafult_playerFilter" x="2" y="2" width="112" height="241"/>
+    <SubTexture name="image_fight_tomb" x="196" y="162" width="53" height="72"/>
+    <SubTexture name="image_player_girlAttest" x="197" y="310" width="29" height="22" frameX="0" frameY="-4" frameWidth="29" frameHeight="26"/>
+    <SubTexture name="image_vipGrade_small1" x="165" y="310" width="30" height="30"/>
+    <SubTexture name="image_vipGrade_small10" x="116" y="130" width="30" height="30"/>
+    <SubTexture name="image_vipGrade_small11" x="116" y="98" width="30" height="30"/>
+    <SubTexture name="image_vipGrade_small12" x="116" y="66" width="30" height="30"/>
+    <SubTexture name="image_vipGrade_small2" x="116" y="34" width="30" height="30"/>
+    <SubTexture name="image_vipGrade_small3" x="116" y="2" width="30" height="30"/>
+    <SubTexture name="image_vipGrade_small4" x="133" y="325" width="30" height="30"/>
+    <SubTexture name="image_vipGrade_small5" x="101" y="325" width="30" height="30"/>
+    <SubTexture name="image_vipGrade_small6" x="69" y="325" width="30" height="30"/>
+    <SubTexture name="image_vipGrade_small7" x="66" y="457" width="30" height="30"/>
+    <SubTexture name="image_vipGrade_small8" x="34" y="457" width="30" height="30"/>
+    <SubTexture name="image_vipGrade_small9" x="2" y="457" width="30" height="30"/>
+</TextureAtlas>

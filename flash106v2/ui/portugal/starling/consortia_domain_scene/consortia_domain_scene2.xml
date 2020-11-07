@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8d315d15d3c75aa9228a4c7e3f0f3584:1/1$ -->
+<TextureAtlas imagePath="consortia_domain_scene2.png">
+    <SubTexture name="consortiaDomainArrowIcon1" x="2000" y="63" width="33" height="42"/>
+    <SubTexture name="consortiaDomainBagStoreTitle1" x="889" y="2008" width="93" height="28" frameX="-1" frameY="-6" frameWidth="117" frameHeight="40"/>
+    <SubTexture name="consortiaDomainBagStoreTitle2" x="792" y="2008" width="93" height="28" frameX="-1" frameY="-6" frameWidth="117" frameHeight="40"/>
+    <SubTexture name="consortiaDomainBagStoreTitleBg" x="1729" y="69" width="181" height="66" frameX="-2" frameY="-4" frameWidth="183" frameHeight="70"/>
+    <SubTexture name="consortiaDomainCompleteDegree" x="1916" y="4" width="64" height="16" frameX="0" frameY="0" frameWidth="64" frameHeight="18"/>
+    <SubTexture name="consortiaDomainConsortiaCityTitle1" x="1077" y="2008" width="87" height="28" frameX="0" frameY="-6" frameWidth="117" frameHeight="40"/>
+    <SubTexture name="consortiaDomainConsortiaCityTitle2" x="986" y="2008" width="87" height="28" frameX="0" frameY="-6" frameWidth="117" frameHeight="40"/>
+    <SubTexture name="consortiaDomainConsortiaCityTitleBg" x="1168" y="4" width="183" height="70"/>
+    <SubTexture name="consortiaDomainConsortiaShopTitle1" x="279" y="2008" width="53" height="32" frameX="0" frameY="-7" frameWidth="117" frameHeight="40"/>
+    <SubTexture name="consortiaDomainConsortiaShopTitle2" x="222" y="2008" width="53" height="32" frameX="0" frameY="-6" frameWidth="117" frameHeight="40"/>
+    <SubTexture name="consortiaDomainConsortiaShopTitleBg" x="1542" y="4" width="183" height="63" frameX="0" frameY="-6" frameWidth="183" frameHeight="69"/>
+    <SubTexture name="consortiaDomainConsortiaSkillTitle1" x="564" y="2008" width="224" height="28" frameX="-2" frameY="-6" frameWidth="228" frameHeight="40"/>
+    <SubTexture name="consortiaDomainConsortiaSkillTitle2" x="336" y="2008" width="224" height="28" frameX="-2" frameY="-6" frameWidth="228" frameHeight="40"/>
+    <SubTexture name="consortiaDomainConsortiaSkillTitleBg" x="1355" y="4" width="183" height="69"/>
+    <SubTexture name="consortiaDomainFightIcon1" x="1916" y="66" width="37" height="37"/>
+    <SubTexture name="consortiaDomainHomeBankTitle1" x="113" y="2008" width="105" height="32" frameX="0" frameY="-7" frameWidth="117" frameHeight="40"/>
+    <SubTexture name="consortiaDomainHomeBankTitle2" x="4" y="2008" width="105" height="32" frameX="0" frameY="-7" frameWidth="117" frameHeight="40"/>
+    <SubTexture name="consortiaDomainHomeBankTitleBg" x="1729" y="4" width="183" height="61" frameX="0" frameY="-8" frameWidth="183" frameHeight="69"/>
+    <SubTexture name="consortiaDomainHp" x="1957" y="105" width="32" height="14" frameX="-1" frameY="-1" frameWidth="36" frameHeight="18"/>
+    <SubTexture name="consortiaDomainProgressBg" x="1542" y="71" width="143" height="14"/>
+    <SubTexture name="consortiaDomainProgressGreen" x="1168" y="78" width="137" height="8"/>
+    <SubTexture name="consortiaDomainProgressRed" x="1355" y="77" width="137" height="8"/>
+    <SubTexture name="consortiaDomainRepairAni" x="1958" y="63" width="38" height="38"/>
+    <SubTexture name="consortiaDomainRepairAniBg" x="1984" y="4" width="55" height="55"/>
+    <SubTexture name="consortiaDomainRepairIcon1" x="1916" y="24" width="38" height="38"/>
+    <SubTexture name="consortia_domain_scene/1_0" x="4" y="4" width="1160" height="2000"/>
+</TextureAtlas>
